@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Muhafiz Raza
 
 - 🌱 I’m currently learning TypeScript, Tailwind CSS and Next.js
+-  Participated in GSSoC Extended 2024 open source event and contributed to some awesome projects. [Check here](https://github.com/muhafiz5814?tab=overview&from=2024-10-01&to=2024-10-31)  
+
+Any PRs or Reviews on `hello-tailwindcss` repository are my own as I am learning Tailwind CSS. Doing this to make sure I practice as Project Admin as well as Contributor/Developer in project.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
