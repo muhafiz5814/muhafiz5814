@@ -8,7 +8,7 @@ If you are coming from LinkedIn or my Resume, then you probably know my name �
 - Recently learned `TypeScript`, currently learning `Tailwind CSS` and all of this, is to learn `Next.js`, which is the main target 🎯 (As most of the projects in Next.js are using these technologies).
 -  Participated in GSSoC Extended 2024 open source program and contributed to some awesome projects. [Click here](https://github.com/muhafiz5814?tab=overview&from=2024-10-01&to=2024-10-31#:~:text=Contribution%20activity), then scroll to `Contribution activity` section to see my contribution history of program below 👇.
 -  Learning new things 👨‍💻 and helping my parents 👨‍👩‍👦 in the day, applying my learning in projects in the night (mostly). Due to this you can notice my most commits are made at night 🌃.
--  If you see many empty squares⬛ in my contribution history in recent days/weeks, check again after some time, I am just a PR away 😉.
+-  If you see many continuous empty squares⬛ in my contribution history in recent days/weeks, check again after some time, I am just a PR away 🙂.
 
 ### Note
 >  Repositories starting with word `hello-` are my learning repositories. Whenever I start learning new technology I simply create a new repo for it and start learning by building.  
