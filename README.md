@@ -10,12 +10,12 @@ If you are coming from LinkedIn or my Resume, then you probably know my name😀
 
 <br/>
 
--  ***Now is the best time to hire me💯, time's passing by⌛, may be the next time you visit me again, I will belong to someone else.*** 😎
+-  ***Now is the best time to hire me💯, time's passing by⌛, may be the next time you visit me again, I will belong to someone else.*** 🙂
 
 <br/>
 
 -  Participated in GSSoC Extended 2024 open source program and contributed to some awesome projects. [Click here](https://github.com/muhafiz5814?tab=overview&from=2024-10-01&to=2024-10-31#:~:text=Contribution%20activity), then scroll to `Contribution activity` section to see my contribution history of program below 👇.
--  Learning new things 👨‍💻 and helping my parents 👨‍👩‍👦 in the day, applying my learning in projects in the night (mostly). Due to this you can notice my most commits are made at night 🌃.
+-  Learning new things 👨‍💻 and helping my parents 👨‍👩‍👦 in the day, applying my learning in projects in the night (mostly).
 -  If you see many continuous empty squares⬛ in my contribution history in recent days/weeks, check again after some time, I am just a PR away 🙂.
 
 ### Note
